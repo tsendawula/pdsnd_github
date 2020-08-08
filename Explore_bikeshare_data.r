@@ -13,7 +13,9 @@ head(chi)
 # Load Libraries
 library(ggplot2)
 library(dplyr)
-summary(ny) #Running a descriptive summary to understanding the data
+
+#Running a descriptive summary to understanding the data
+summary(ny) 
 
 #The summary showed that both Gender and User Type have blank cells which seem to be missing values.
 #Plotting User type by Gender in New York using a side-by-side barchart
@@ -110,6 +112,6 @@ qplot(x = Gender, y = Birth.Year,
 #descriptive summary to compare distributions across the two groups
 by(ny4$Birth.Year, ny4$Gender, summary)
 
-
+#convert explore_bikreshare_data.r to Explore_bikeshare_data.ipynb
 system('python -m nbconvert Explore_bikeshare_data.ipynb')
 
