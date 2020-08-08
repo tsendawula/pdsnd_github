@@ -73,6 +73,5 @@ https://www.storybench.org/exploring-bike-rental-behavior-using-r/
 https://www.kaggle.com/aakashkh/grouping-histogram-in-r-bike-share-data
 https://www.r-bloggers.com/visualizing-bike-share-data-niceride/
 https://datacarpentry.org/R-ecology-lesson/04-visualization-ggplot2.html#:~:text=Plotting%20with%20ggplot2,displayed%2C%20and%20general%20visual%20properties.
-Udacity.com
 https://www.r-bloggers.com/exploring-san-francisco-bay-areas-bike-share-system/
 
